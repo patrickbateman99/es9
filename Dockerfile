@@ -6,7 +6,7 @@ MAINTAINER franescotorr@example
 
 #ADD index.html /start-nginx
 
-RUN mkdir miacartella
+#RUN mkdir miacartella
 
 CMD sleep 3600
 
