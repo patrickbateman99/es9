@@ -6,6 +6,6 @@ MAINTAINER franescotorr@example
 
 ADD index.html .
 
-RUN mkdir miacartella /
+RUN mkdir miacartella 
 
 #CMD sleep 3600
