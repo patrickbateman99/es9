@@ -4,7 +4,7 @@ MAINTAINER franescotorr@example
 
 #RUN rm -rf /app/index.html
 
-ADD index.html
+ADD index.html .
 
 RUN mkdir miacartella
 
