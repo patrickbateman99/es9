@@ -1,4 +1,4 @@
-FROM nginx
+FROM docker.io/library/nginx
 
 MAINTAINER franescotorr@example
 
