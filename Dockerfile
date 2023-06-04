@@ -8,4 +8,4 @@ ADD index.html .
 
 RUN mkdir miacartella
 
-CMD sleep 3600
+#CMD sleep 3600
