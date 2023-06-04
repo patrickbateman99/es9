@@ -1,4 +1,4 @@
-FROM docker.io/bitnami/nginx 
+FROM nginx
 
 MAINTAINER franescotorr@example
 
