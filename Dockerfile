@@ -1,13 +1,12 @@
 FROM nginx 
 
-MAINTAINER franescotorr@example 
+MAINTAINER franescotorr@example
 
-RUN rm -rf /start-nginx/index.html 
+RUN rm -rf /start-nginx/index.html
 
-ADD index.html /start-niginx 
+ADD index.html /start-nginx
 
-RUN mkdir miacartella 
-
+RUN mkdir miacartella
 
 CMD sleep 3600
 
